@@ -6,7 +6,7 @@
 <h3 align="center">A web developer from India. I am pursuing B.Tech. in CSE at UNIVERSITY OF ENGINEERING AND MANAGEMENT, KOLKATA.</h3>
 <img align="right" width="400" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik1480&label=Profile%20views&color=0e75b6&style=flat" alt="souvik1480" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikmondall07&label=Profile%20views&color=0e75b6&style=flat" alt="souvikmondall07" /> </p>
 
 - 🌱 I’m currently learning **full stack web development**
 
